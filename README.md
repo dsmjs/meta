@@ -16,3 +16,8 @@ you'd like to learn about from someone else.
 If you'd like to give a talk, but don't have a topic in mind, browse the
 [topic requests](https://github.com/dsmjs/talk-proposals/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22topic+request%22)
 from other members.
+
+## Leadership
+
+Our current leads are @crolek and @travi. Feel free to ping us directly in issues
+or mention the team as @dsmjs/leads
