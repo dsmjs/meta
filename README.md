@@ -19,6 +19,5 @@ from other members.
 
 ## Leadership
 
-Our current leads are [@crolek](https://github.com/crolek),
-[@travi](https://github.com/travi), and [@michaelwclark](https://github.com/michaelwclark).
+Our current leads are [@travi](https://github.com/travi), [@michaelwclark](https://github.com/michaelwclark), and [@micleners](https://github.com/micleners).
 Feel free to ping us directly in issues or mention the team as @dsmjs/leads.
